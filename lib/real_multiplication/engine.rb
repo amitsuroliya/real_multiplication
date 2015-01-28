@@ -1,0 +1,2 @@
+class RealMultiplication::Engine
+end
