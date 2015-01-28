@@ -12,7 +12,7 @@ Run :
 We can perform this algorithm by
 
 ```
-  RealLifeMultiplication.result
+  RealMultiplication.result
 
 ```
 

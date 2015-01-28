@@ -1,4 +1,4 @@
-# = array_search/value.rb
+# = real_multiplication/value.rb
 #
 # Author:: Amit Suroliya <amitkumarsuroliya@gmail.com>
 # License:: You can redistribute it and/or modify it under the same term as Ruby.
@@ -9,10 +9,10 @@
 
 module RealMultiplication
   #
-  # The syntax of ArraySearch is defined in RFC1738 section 3.3.
+  # The syntax of RealMultiplication is defined in RFC1738 section 3.3.
   #
-  # Note that the ArraySearch library allows us to implements
-  # interpolation search in an array.
+  # Note that the RealMultiplication library allows us to implements
+  # multiplication between two numbers.
   #
 
   class Values
