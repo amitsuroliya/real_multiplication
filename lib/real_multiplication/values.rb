@@ -19,9 +19,9 @@ module RealMultiplication
 
     def self.gets_it
       puts "Enter A :"
-      a = gets.chomp.to_f
+      a = gets.chomp.to_i
       puts "Enter B :"
-      b = gets.chomp.to_f
+      b = gets.chomp.to_i
       return a,b
     end
 
